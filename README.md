@@ -1,6 +1,6 @@
 # Spring Boot REST API application
 
-This is a small REST API spring boot app that demonstrates simple GET, POST, PUT HTTP requests using.
+This is a small REST API spring boot app that demonstrates simple GET, POST, PUT HTTP requests
 
 ## Configuration
 ### Database
